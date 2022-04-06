@@ -68,7 +68,7 @@ Command `knrp <gateway> <service>`
 knrp localhost http://hello.default.127.0.0.1.sslip.io
 ```
 
-knrp Output.
+Output knrp.
 
 ```bash
 2022/04/06 16:05:19 knrp run at port: 52070
